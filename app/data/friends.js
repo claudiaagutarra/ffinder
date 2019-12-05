@@ -1,31 +1,31 @@
 var friendsData = [
 {
     "name":"Nick Miller",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://thumbs.gfycat.com/FrenchHelpfulGrayreefshark-size_restricted.gif",
     "scores":[
+        1,
         5,
+        2,
         1,
         3,
-        4,
         2,
-        1,
-        1,
+        2,
         5,
-        2,
-        1
+        1,
+        4
       ]
   },
   {
     "name":"Jessica Day",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.giphy.com/media/3oriNKXRxg0QYOE3n2/giphy.gif",
     "scores":[
         5,
-        1,
+        4,
         3,
         3,
-        2,
-        1,
-        2,
+        5,
+        5,
+        3,
         5,
         4,
         1
@@ -33,66 +33,82 @@ var friendsData = [
   },
   {
     "name":"Winston Schmidt",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://data.whicdn.com/images/290097762/original.gif",
     "scores":[
         5,
         1,
-        4,
-        4,
+        3,
         5,
         3,
-        8,
         5,
-        4,
-        1
+        3,
+        5,
+        2,
+        3
       ]
   },
   {
     "name":"Cece Parekh",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.giphy.com/media/xT1XH2673p51AciBoI/giphy.gif",
     "scores":[
-        5,
+        2,
+        4,
         1,
         3,
         4,
         5,
-        1,
+        5,
         2,
         5,
-        4,
-        1
+        3
       ]
   },
   {
     "name":"Winston Bishop",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://media.giphy.com/media/l41Ye5dhLPqILtT2w/giphy.gif",
     "scores":[
-        3,
-        1,
-        4,
-        4,
-        5,
-        1,
         2,
+        3,
+        3,
+        3,
         5,
+        3,
         4,
-        1
+        2,
+        1,
+        2
       ]
   },
   {
     "name":"Aly Nelson",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://thumbs.gfycat.com/AmusingCoarseDodobird-size_restricted.gif",
     "scores":[
         5,
-        1,
+        2,
         4,
         4,
-        5,
-        1,
-        4,
-        5,
         3,
-        1
+        2,
+        4,
+        3,
+        5,
+        2
+      ]
+  },
+  {
+    "name":"Ernie Tagliaboo (Coach)",
+    "photo":"https://media.giphy.com/media/fj1uREbHQ2Aww/giphy.gif",
+    "scores":[
+        3,
+        2,
+        2,
+        5,
+        2,
+        1,
+        3,
+        1,
+        3,
+        2
       ]
   }
 ]
